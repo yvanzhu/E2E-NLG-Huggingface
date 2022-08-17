@@ -8,4 +8,4 @@ In 'Play with test set' section, you can either generated text with your trained
 
 The fine-tuned model is also avaliable under : https://huggingface.co/Yvanzhu/E2E-NLG-Bart-best/tree/main
 
-You can also find our another approach from scratch for this project under : https://git.tu-berlin.de/qiaw99/data-to-text-generation-for-task-oriented-dialog-systems/-/tree/tf_scratch_v0.0.0 The contributor is @qiaw99
+You can also find our another approach from scratch for this project under : https://git.tu-berlin.de/qiaw99/data-to-text-generation-for-task-oriented-dialog-systems/-/tree/tf_scratch_v0.0.0 The instruction can also be found there. The contributor of the model is @qiaw99
